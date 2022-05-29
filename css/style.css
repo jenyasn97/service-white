@@ -1578,6 +1578,12 @@ h6 {
     display: none;
   }
 
+  .none {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
+
   .top--header__logo img {
     max-width: 168px;
   }
