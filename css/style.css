@@ -263,7 +263,7 @@ h6 {
   position: relative;
   margin: 0 auto;
   max-width: 1920px;
-  background: url(../../img/banner/bannerBG.png) 101% 360% no-repeat;
+  background: url("../img/banner/bannerBG.png") 101% 360% no-repeat;
 }
 
 .description {
@@ -380,7 +380,7 @@ h6 {
   width: 14px;
   height: 14px;
   margin-right: 5px;
-  background: url(../../img/header/header_svg/Star.svg) center center no-repeat;
+  background: url("../img/header/header_svg/Star.svg") center center no-repeat;
 }
 
 .top--header__info {
@@ -462,7 +462,7 @@ h6 {
   height: 20px;
   display: inline-block;
   margin-right: -3px;
-  background: url(../../img/header/call.png) center center no-repeat;
+  background: url("../img/header/call.png") center center no-repeat;
 }
 
 .bottom--header {
@@ -499,7 +499,7 @@ h6 {
   width: 10px;
   height: 10px;
   margin-left: 10px;
-  background: url(../../img/header/header_svg/arrow.svg) center center no-repeat;
+  background: url("../img/header/header_svg/arrow.svg") center center no-repeat;
   background-size: contain;
 }
 
@@ -694,7 +694,7 @@ h6 {
   width: 15px;
   height: 15px;
   margin-right: 15px;
-  background: url(../../img/banner/banner_svg/arrow.svg) center center no-repeat;
+  background: url("../img/banner/banner_svg/arrow.svg") center center no-repeat;
   background-size: contain;
 }
 
@@ -909,9 +909,9 @@ h6 {
   width: 24px;
   height: 24px;
   margin-right: 10px;
-  background: url(../../img/staff/staff_svg/ok.svg) center center no-repeat, -webkit-gradient(linear, right top, left top, from(#ffcc00), to(#ffa300)), -webkit-gradient(linear, left bottom, left top, from(#ffa300), to(#ffa300));
-  background: url(../../img/staff/staff_svg/ok.svg) center center no-repeat, -o-linear-gradient(right, #ffcc00 0%, #ffa300 100%), -o-linear-gradient(bottom, #ffa300, #ffa300);
-  background: url(../../img/staff/staff_svg/ok.svg) center center no-repeat, linear-gradient(270deg, #ffcc00 0%, #ffa300 100%), linear-gradient(0deg, #ffa300, #ffa300);
+  background: url("../img/staff/staff_svg/ok.svg") center center no-repeat, -webkit-gradient(linear, right top, left top, from(#ffcc00), to(#ffa300)), -webkit-gradient(linear, left bottom, left top, from(#ffa300), to(#ffa300));
+  background: url("../img/staff/staff_svg/ok.svg") center center no-repeat, -o-linear-gradient(right, #ffcc00 0%, #ffa300 100%), -o-linear-gradient(bottom, #ffa300, #ffa300);
+  background: url("../img/staff/staff_svg/ok.svg") center center no-repeat, linear-gradient(270deg, #ffcc00 0%, #ffa300 100%), linear-gradient(0deg, #ffa300, #ffa300);
   border-radius: 50%;
 }
 
@@ -965,7 +965,7 @@ h6 {
   border-radius: 50%;
   -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, 0.301);
           box-shadow: 0 0 5px rgba(0, 0, 0, 0.301);
-  background: url(../../img/staff/staff_svg/arrow-left.svg) center center no-repeat;
+  background: url("../img/staff/staff_svg/arrow-left.svg") center center no-repeat;
   font-size: 0;
   z-index: 900;
 }
@@ -988,7 +988,7 @@ h6 {
   border-radius: 50%;
   -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, 0.301);
           box-shadow: 0 0 5px rgba(0, 0, 0, 0.301);
-  background: url(../../img/staff/staff_svg/arrow-right.svg) center center no-repeat;
+  background: url("../img/staff/staff_svg/arrow-right.svg") center center no-repeat;
   font-size: 0;
   z-index: 900;
 }
@@ -1112,7 +1112,7 @@ h6 {
   }
 
   .wraper {
-    background: url(../../img/banner/banner1366.png) top right no-repeat;
+    background: url("../img/banner/banner1366.png") top right no-repeat;
   }
 
   .header__line {
@@ -1245,7 +1245,7 @@ h6 {
   }
 
   .wraper {
-    background: url(../../img/banner/bannerBG1024.png) top right no-repeat;
+    background: url("../img/banner/bannerBG1024.png") top right no-repeat;
   }
 
   .top--header__graphic {
@@ -1455,7 +1455,7 @@ h6 {
   }
 
   .wraper {
-    background: url(../../img/banner/bannerBG768.png) top right no-repeat;
+    background: url("../img/banner/bannerBG768.png") top right no-repeat;
   }
 
   .bottom--header__item {
@@ -1556,7 +1556,7 @@ h6 {
   }
 
   .wraper {
-    background: url(../../img/banner/bannerBG375.png) top right no-repeat;
+    background: url("../img/banner/bannerBG375.png") top right no-repeat;
   }
 
   .header {
